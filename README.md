@@ -3,8 +3,8 @@ A short README.md that explains how to get started with Markdown, a super-simple
 
 ## Links
 
-- [Webpage](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
-- [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
+- [Webpage](https://druthi7.github.io/druthi789/ "Working With Markdown Webpage")
+- [Source](https://github.com/Druthi7/working-with-markdown "Working With Markdown Source")
 
 ## Getting Started
 
@@ -65,7 +65,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
+![Hosted image](https://image.shutterstock.com/image-vector/hello-lettering-banner-poster-sticker-260nw-1129614320.jpg "Lynx Kitten")
 
 ## Paragraphs
 
