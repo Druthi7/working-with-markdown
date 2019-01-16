@@ -61,7 +61,7 @@ dir
 ### Code used below is DOS
 
 ```DOS
-it is dos code
+it is DOS code
 ```
 
 ## Displaying Images
@@ -89,8 +89,8 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Sharadruthi----  Student of Professor Case at NWMSU
 
-dcase@nwmissouri.edu
+s534881@nwmissouri.edu
 
 
