@@ -3,7 +3,7 @@ A short README.md that explains how to get started with Markdown, a super-simple
 
 ## Links
 
-- [Webpage](https://druthi7.github.io/druthi789/ "Working With Markdown Webpage")
+- [Webpage](https://druthi7.github.io/working-with-markdown/ "Working With Markdown Webpage")
 - [Source](https://github.com/Druthi7/working-with-markdown "Working With Markdown Source")
 
 ## Getting Started
