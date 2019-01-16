@@ -58,6 +58,11 @@ After the opening backtics, put the syntax type, e.g. JavaScript or DOS (for Win
 ```DOS
 dir
 ```
+### Code used below is DOS
+
+```DOS
+it is dos code
+```
 
 ## Displaying Images
 
