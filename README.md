@@ -1,5 +1,5 @@
-# working-with-markdown
-A short README.md that explains how to get started with Markdown, a super-simple markup language for web pages
+# Assignment on working-with-markdown
+_A short assignment on README.md that explains how to get started with Markdown, a super-simple markup language for web pages_
 
 ## Links
 
@@ -8,10 +8,10 @@ A short README.md that explains how to get started with Markdown, a super-simple
 
 ## Getting Started
 
-1. Login to GitHub.
+1. **Login to GitHub**.
 1. Click + to add a new repo. 
 1. Enter the name of the repo (which will become the title of your page). 
-1. Allow GitHub to create a .gitignore based on the type of project (if needed). 
+1. _Allow **GitHub to create a .gitignore** based on the type of project (if needed)._ 
 1. Allow GitHub to draft a README.md. 
 1. Choose a license if desired. 
 
@@ -92,5 +92,17 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 Sharadruthi----  Student of Professor Case at NWMSU
 
 s534881@nwmissouri.edu
+
+## Review about the class and assignment 
+
+1. This topic is very useful.
+2. I enjoyed while doing this assignment
+3. Excited to explore GitHub.
+
+## Thank you
+> Thank you
+![Hosted image](https://images.pexels.com/photos/424517/pexels-photo-424517.jpeg "Thanks")
+
+
 
 
