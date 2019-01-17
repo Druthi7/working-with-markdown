@@ -101,6 +101,7 @@ s534881@nwmissouri.edu
 
 ## Thank you
 > Thank you
+
 ![Hosted image](https://images.pexels.com/photos/424517/pexels-photo-424517.jpeg "Thanks")
 
 
